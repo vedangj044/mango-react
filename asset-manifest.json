@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mango-react/static/css/main.b64c04d8.chunk.css",
+    "main.js": "/mango-react/static/js/main.ee993d78.chunk.js",
+    "main.js.map": "/mango-react/static/js/main.ee993d78.chunk.js.map",
+    "runtime-main.js": "/mango-react/static/js/runtime-main.dde60cc2.js",
+    "runtime-main.js.map": "/mango-react/static/js/runtime-main.dde60cc2.js.map",
+    "static/js/2.eb77d440.chunk.js": "/mango-react/static/js/2.eb77d440.chunk.js",
+    "static/js/2.eb77d440.chunk.js.map": "/mango-react/static/js/2.eb77d440.chunk.js.map",
+    "static/js/3.5b947c62.chunk.js": "/mango-react/static/js/3.5b947c62.chunk.js",
+    "static/js/3.5b947c62.chunk.js.map": "/mango-react/static/js/3.5b947c62.chunk.js.map",
+    "index.html": "/mango-react/index.html",
+    "static/css/main.b64c04d8.chunk.css.map": "/mango-react/static/css/main.b64c04d8.chunk.css.map",
+    "static/js/2.eb77d440.chunk.js.LICENSE.txt": "/mango-react/static/js/2.eb77d440.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dde60cc2.js",
+    "static/js/2.eb77d440.chunk.js",
+    "static/css/main.b64c04d8.chunk.css",
+    "static/js/main.ee993d78.chunk.js"
+  ]
+}
